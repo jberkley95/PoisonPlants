@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Poison Plants</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="about">
+        Poison Plants was created by:\n
+        \n
+        \t-Name1\n
+        \t-Name2\n
+        \t-Name3\n
+        \t-Name4\n
+        \n
+        \tCreated at Nicolas Jr. High for
+        the purpose of competing in
+        the United States Congressional App Competition.\n
+    </string>
+    <string name="main">
+        <b>Welcome to the Poison Plants App!</b>\n
+        \n
+        \tClick the <i>Search</i> tab to find plants by County, you will be given a list
+        of images to compare a potentially poisonous plant to. By clicking on this image, you will
+        be taken to a webpage with more information!\n
+        \n
+        \tClick the <i>Call</i> tab to be given a list of phone numbers that may be useful in case
+        of accidental contact or ingestion of a potentially poisonous plant.\n
+        \n
+        \tLastly, if you would like more information about the creators of this app, please click
+        on the <i>About</i> tab.\n
+    </string>
+    <string name="call">
+        Numbers In Case of Questions/Emergencies:\n
+        \n
+        - Emergency Telephone Number:\n\n
+        \t\t911\n\n
+        - Centers for Disease Control (CDC):\n\n
+        \t\t1-800-232-4636\n\n
+        - United States Poison Control:\n\n
+        \t\t1-800-222-1222\n
+    </string>
+</resources>
+
